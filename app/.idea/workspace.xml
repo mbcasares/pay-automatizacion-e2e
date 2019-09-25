@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ef2ef46-9504-40b4-b5f1-ec8bc25ccc8b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="R38M409J6MT" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Appvengers_Demo_UI" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/androidTest/java/com/appvengers_demo_ui/test/LoginDetailsSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1018">
+              <caret line="79" column="9" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/androidTest/assets/features/login_details.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Cucumber feature file" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>com.android.support</find>
+      <find>set</find>
+      <find>id</find>
+      <find>txtUsername</find>
+      <find>btnLogin</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/androidTest/java/com/appvengers_demo_ui/CucumberTestCase.java" />
+        <option value="$PROJECT_DIR$/src/androidTest/java/com/appvengers_demo_ui/Instrumentation.java" />
+        <option value="$PROJECT_DIR$/build/generated/source/buildConfig/androidTest/debug/com/appvengers_demo_ui/test/BuildConfig.java" />
+        <option value="$PROJECT_DIR$/src/androidTest/java/com/appvengers_demo_ui/cucumber/steps/LoginDetailsSteps.java" />
+        <option value="$PROJECT_DIR$/src/androidTest/java/com/appvengers_demo_ui/test/Instrumentation.java" />
+        <option value="$PROJECT_DIR$/src/androidTest/java/com/appvengers_demo_ui/test/LoginDetailsSteps.java" />
+        <option value="$PROJECT_DIR$/src/androidTest/assets/features/login_details.feature" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="3875" />
+    <option name="height" value="2095" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Appvengers_Demo_UI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Appvengers_Demo_UI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Appvengers_Demo_UI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Appvengers_Demo_UI" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Appvengers_Demo_UI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Appvengers_Demo_UI" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Appvengers_Demo_UI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Appvengers_Demo_UI" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Appvengers_Demo_UI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Appvengers_Demo_UI" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Appvengers_Demo_UI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Appvengers_Demo_UI" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Appvengers_Demo_UI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Appvengers_Demo_UI" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Appvengers_Demo_UI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Appvengers_Demo_UI" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Appvengers_Demo_UI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Appvengers_Demo_UI" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mobile-app-payments-cnb-master/android" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.appvengers_demo_ui.test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Trabajo\Android Studio\Proyectos\Appvengers_Demo_UI\app\src\androidTest\asset" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Trabajo\Android Studio\Proyectos\Appvengers_Demo_UI\app\src\androidTest\assets" />
+      <recent name="C:\Trabajo\Android Studio\Proyectos\Appvengers_Demo_UI\app\src\androidTest" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android Instrumented Tests.a ver">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <module name="app" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a ver" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <module name="app" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: login_details" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/androidTest/assets/features/login_details.feature" />
+      <option name="GLUE" value="com.appvengers_demo_ui.test" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="app" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: login_details" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android App.app" />
+      <item itemvalue="Android Instrumented Tests.a ver" />
+      <item itemvalue="Cucumber java.Feature: login_details" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: login_details" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ef2ef46-9504-40b4-b5f1-ec8bc25ccc8b" name="Default Changelist" comment="" />
+      <created>1567982505317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567982505317</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="a_ver - 2019.09.25 at 01h 51m 30s.xml">
+      <configuration name="a ver" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="a_ver - 2019.09.25 at 01h 55m 17s.xml">
+      <configuration name="a ver" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="a_ver - 2019.09.25 at 01h 57m 00s.xml">
+      <configuration name="a ver" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="a_ver - 2019.09.25 at 01h 58m 58s.xml">
+      <configuration name="a ver" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="a_ver - 2019.09.25 at 02h 00m 09s.xml">
+      <configuration name="a ver" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="a_ver - 2019.09.25 at 02h 02m 27s.xml">
+      <configuration name="a ver" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="a_ver - 2019.09.25 at 02h 03m 23s.xml">
+      <configuration name="a ver" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="a_ver - 2019.09.25 at 12h 18m 53s.xml">
+      <configuration name="a ver" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="a_ver - 2019.09.25 at 13h 35m 47s.xml">
+      <configuration name="a ver" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="a_ver - 2019.09.25 at 13h 58m 15s.xml">
+      <configuration name="a ver" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4992928" visible="true" weight="0.24480215" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" sideWeight="0.5007072" side_tool="true" weight="0.29644534" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" weight="0.32997987" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" sideWeight="0.49966466" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50033534" side_tool="true" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Build" order="5" sideWeight="0.4969819" weight="0.3026874" />
+      <window_info anchor="bottom" id="Android Profiler" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.8457411" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.5895372" weight="0.32956153" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" weight="0.32997987" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="a ver">
+        <watch expression="lblAlertaIncorrecto.mUiSelector.mSelectorAttributes" language="JAVA" />
+        <watch expression="lblAlertaIncorrecto.getText()" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>lblAlertaIncorrecto.mUiSelector.mSelectorAttributes</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/androidTest/java/com/appvengers_demo_ui/CucumberTestCase.java" />
+    <entry file="file://$PROJECT_DIR$/src/androidTest/asset/features/Instrumentation.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/generated/source/buildConfig/androidTest/debug/com/appvengers_demo_ui/test/BuildConfig.java" />
+    <entry file="file://$PROJECT_DIR$/build/generated/source/buildConfig/debug/com/appvengers_demo_ui/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/androidTest/java/com/appvengers_demo_ui/test/Instrumentation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.uiautomator/uiautomator/2.2.0/72aaf29a7ffcd4ac7a3b548851152011410cc420/uiautomator-2.2.0-sources.jar!/androidx/test/uiautomator/UiSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="e#2637#2645#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-java/1.2.5/fb3f585b68770a423933f0d8b9d8cac800d4157f/cucumber-java-1.2.5-sources.jar!/cucumber/runtime/java/JavaStepDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-core/1.2.5/c4fee6de8487b287994b917624d3ad1ede52a4ca/cucumber-core-1.2.5-sources.jar!/cucumber/runtime/StepDefinitionMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-core/1.2.5/c4fee6de8487b287994b917624d3ad1ede52a4ca/cucumber-core-1.2.5-sources.jar!/cucumber/runtime/Runtime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="312" selection-start-line="312" selection-end-line="312" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-core/1.2.5/c4fee6de8487b287994b917624d3ad1ede52a4ca/cucumber-core-1.2.5-sources.jar!/cucumber/runtime/RuntimeOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="293" column="57" selection-start-line="293" selection-start-column="57" selection-end-line="293" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-core/1.2.5/c4fee6de8487b287994b917624d3ad1ede52a4ca/cucumber-core-1.2.5-sources.jar!/cucumber/runtime/model/StepContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-core/1.2.5/c4fee6de8487b287994b917624d3ad1ede52a4ca/cucumber-core-1.2.5-sources.jar!/cucumber/runtime/Timeout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-core/1.2.5/c4fee6de8487b287994b917624d3ad1ede52a4ca/cucumber-core-1.2.5-sources.jar!/cucumber/runtime/model/CucumberFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="164" selection-start-line="164" selection-end-line="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-core/1.2.5/c4fee6de8487b287994b917624d3ad1ede52a4ca/cucumber-core-1.2.5-sources.jar!/cucumber/runtime/model/CucumberScenarioOutline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-core/1.2.5/c4fee6de8487b287994b917624d3ad1ede52a4ca/cucumber-core-1.2.5-sources.jar!/cucumber/runtime/model/CucumberScenario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-29/android.jar!/java/lang/reflect/Method.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="51" column="35" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/androidTest/java/com/appvengers_demo_ui/AppvengersUIAutomatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/androidTest/assets/features/login_details.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-core/1.2.5/c4fee6de8487b287994b917624d3ad1ede52a4ca/cucumber-core-1.2.5-sources.jar!/cucumber/runtime/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/androidTest/java/com/appvengers_demo_ui/test/LoginDetailsSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1018">
+          <caret line="79" column="9" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
